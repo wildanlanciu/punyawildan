@@ -1947,7 +1947,9 @@ box-shadow: 0 0 10px 3px #000000;
   "acceptedAnswer": {
     "@type": "Answer",
     "text": "Hargatoto menyediakan berbagai metode pembayaran yang mudah dan aman untuk melakukan deposit dan penarikan dana, seperti transfer bank, e-wallet, dan pulsa. Proses deposit di Hargatoto sangat cepat dan mudah, hanya dengan beberapa langkah sederhana. Selain itu, Hargatoto juga memiliki batasan minimal dan maksimal untuk deposit dan penarikan dana, yang berbeda-beda untuk setiap metode pembayaran. Informasi tentang batasan transaksi dapat dilihat di menu Deposit dan Penarikan di akun Hargatoto."
-  } 
+  }
+}]
+} 
 </script>
     <script type="application/ld+json">
   {
